@@ -11,6 +11,8 @@ Interactive game board
 
 Input validation
 
+Restart game
+
 Win detection and draw condition
 
 **How to Play**
